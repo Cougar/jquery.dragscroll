@@ -1,7 +1,7 @@
 # jquery.dragscroll.js #
 ## a scrolling plugin for the jQuery JavaScript Library ##
 
-### PREPERATION ###
+### PREPARATION ###
 
 #### Required ####
 - include the jquery javascript library in your document
@@ -24,7 +24,7 @@
         mouseWheelVelocity : 2
     }); 
 
-### OPSTIONS ###
+### OPTIONS ###
 
 - scrollBars: boolean			// default true. set this, if you want to have scrollbars enabled
 - autoFadeBars : boolean		// default true. this auto-fades scrollbars in and out while scrolling or hoering over scrollbararea				
